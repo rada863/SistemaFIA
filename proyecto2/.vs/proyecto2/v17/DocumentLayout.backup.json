@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\epita\\source\\repos\\proyecto2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF861D3B-F0C6-4067-B9F2-2ED7BACBACFB}|proyecto2.csproj|c:\\users\\epita\\source\\repos\\proyecto2\\forms\\equipoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF861D3B-F0C6-4067-B9F2-2ED7BACBACFB}|proyecto2.csproj|solutionrelative:forms\\equipoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF861D3B-F0C6-4067-B9F2-2ED7BACBACFB}|proyecto2.csproj|c:\\users\\epita\\source\\repos\\proyecto2\\forms\\autosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF861D3B-F0C6-4067-B9F2-2ED7BACBACFB}|proyecto2.csproj|solutionrelative:forms\\autosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF861D3B-F0C6-4067-B9F2-2ED7BACBACFB}|proyecto2.csproj|c:\\users\\epita\\source\\repos\\proyecto2\\forms\\equipoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF861D3B-F0C6-4067-B9F2-2ED7BACBACFB}|proyecto2.csproj|solutionrelative:forms\\equipoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF861D3B-F0C6-4067-B9F2-2ED7BACBACFB}|proyecto2.csproj|c:\\users\\epita\\source\\repos\\proyecto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF861D3B-F0C6-4067-B9F2-2ED7BACBACFB}|proyecto2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EquipoForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\epita\\source\\repos\\proyecto2\\Forms\\EquipoForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EquipoForm.cs",
+              "ToolTip": "C:\\Users\\epita\\source\\repos\\proyecto2\\Forms\\EquipoForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\EquipoForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:59:03.906Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutosForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\epita\\source\\repos\\proyecto2\\Forms\\AutosForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AutosForm.cs",
+              "ToolTip": "C:\\Users\\epita\\source\\repos\\proyecto2\\Forms\\AutosForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\AutosForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:58:52.071Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EquipoForm.cs",
+              "DocumentMoniker": "C:\\Users\\epita\\source\\repos\\proyecto2\\Forms\\EquipoForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EquipoForm.cs",
+              "ToolTip": "C:\\Users\\epita\\source\\repos\\proyecto2\\Forms\\EquipoForm.cs",
+              "RelativeToolTip": "Forms\\EquipoForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:52:30.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\epita\\source\\repos\\proyecto2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\epita\\source\\repos\\proyecto2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:22:06.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
